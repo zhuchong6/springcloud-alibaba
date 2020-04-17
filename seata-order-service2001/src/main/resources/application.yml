@@ -1,0 +1,32 @@
+server:
+  port: 2001
+spring:
+  application:
+    name: seata-order-service
+  cloud:
+    alibaba:
+      seata:
+        #自定义事务组的名字，需要与seata server中一致
+        tx-service-group: mytest_tx_group
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+  datasource:
+    # 当前数据源操作类型
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://localhost:23306/seata_order?useUnicode=true&characterEncoding-utr-8&useSSL=false
+    username: root
+    password: root
+
+feign:
+  hystrix:
+    enabled: false
+logging:
+  level:
+    io:
+      seata: info
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.zhu.springcloud.domain

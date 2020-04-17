@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95a24335-68dc-4a86-a807-044eacec255c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springcloud-alibaba" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a5M3SF2nCl319Xq8UQqwMj9nHo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowAnt.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/zhu/springcloud" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37931034" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhu.springcloud.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\springcloud-alibaba\seata-account-service2003\src\main\java\com\zhu\springcloud" />
+      <recent name="D:\code\springcloud-alibaba\seata-account-service2003\src\main\resources" />
+      <recent name="D:\code\springcloud-alibaba\seata-storage-service2002\src\main\java\com\zhu\springcloud\config" />
+      <recent name="D:\code\springcloud-alibaba\seata-storage-service2002\src\main\resources" />
+      <recent name="file.conf registry.conf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StorageMain2002">
+    <configuration name="AccountMain2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhu.springcloud.AccountMain2003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.springcloud.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhu.springcloud.MainApp8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosProviderMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhu.springcloud.NacosProviderMain9001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OderMain2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhu.springcloud.OderMain2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain85" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-consumer-nacos-order85" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.springcloud.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhu.springcloud.OrderMain85" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageMain2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhu.springcloud.StorageMain2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OderMain2001" />
+        <item itemvalue="Spring Boot.AccountMain2003" />
+        <item itemvalue="Spring Boot.StorageMain2002" />
+        <item itemvalue="Spring Boot.MainApp8401" />
+        <item itemvalue="Spring Boot.OrderMain85" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.14556277" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringMvcView">
+    <option name="showControllers" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a24335-68dc-4a86-a807-044eacec255c" name="Default Changelist" comment="" />
+      <created>1586020801338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586020801338</updated>
+      <workItem from="1586020807420" duration="23211000" />
+      <workItem from="1586201662100" duration="657000" />
+      <workItem from="1586202361995" duration="9057000" />
+      <workItem from="1586569123531" duration="19534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="35" key="#NacosProviderMain" timestamp="1586202986005">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="35" key="#NacosProviderMain/0.0.1920.1080@0.0.1920.1080" timestamp="1586202986005" />
+    <state x="483" y="176" width="967" height="727" key="#NacosProviderMain9002_(1)" timestamp="1586049662139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="483" y="176" width="967" height="727" key="#NacosProviderMain9002_(1)/0.0.1920.1080@0.0.1920.1080" timestamp="1586049662139" />
+    <state x="552" y="198" key="#Project_Structure" timestamp="1586579743458">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1586579743458" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1586854308214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586854308214" />
+    <state x="539" y="465" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586852994540">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="465" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586852994540" />
+    <state width="507" height="466" key="DebuggerActiveHint" timestamp="1586857308276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="507" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1586857308276" />
+    <state x="641" y="246" key="FileChooserDialogImpl" timestamp="1586202311467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="641" y="246" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586202311467" />
+    <state width="1578" height="409" key="GridCell.Tab.0.bottom" timestamp="1586866860877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860877" />
+    <state width="1578" height="409" key="GridCell.Tab.0.center" timestamp="1586866860877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860877" />
+    <state width="1578" height="409" key="GridCell.Tab.0.left" timestamp="1586866860877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860877" />
+    <state width="1578" height="409" key="GridCell.Tab.0.right" timestamp="1586866860877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860877" />
+    <state width="1578" height="409" key="GridCell.Tab.1.bottom" timestamp="1586866860878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860878" />
+    <state width="1578" height="409" key="GridCell.Tab.1.center" timestamp="1586866860878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860878" />
+    <state width="1578" height="409" key="GridCell.Tab.1.left" timestamp="1586866860878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860878" />
+    <state width="1578" height="409" key="GridCell.Tab.1.right" timestamp="1586866860878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860878" />
+    <state width="1578" height="409" key="GridCell.Tab.2.bottom" timestamp="1586866860879">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860879" />
+    <state width="1578" height="409" key="GridCell.Tab.2.center" timestamp="1586866860878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860878" />
+    <state width="1578" height="409" key="GridCell.Tab.2.left" timestamp="1586866860878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860878" />
+    <state width="1578" height="409" key="GridCell.Tab.2.right" timestamp="1586866860879">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="409" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586866860879" />
+    <state x="621" y="305" key="NewModule_or_Project.wizard" timestamp="1586201886086">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="305" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586201886086" />
+    <state x="251" y="222" key="SettingsEditor" timestamp="1586853482448">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="251" y="222" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586853482448" />
+    <state width="589" height="446" key="SwitcherDM" timestamp="1586051096014">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="589" height="446" key="SwitcherDM/0.0.1920.1080@0.0.1920.1080" timestamp="1586051096013" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-1" timestamp="1586133041947">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1586133041947" />
+    <state width="849" height="308" key="javadoc.popup.new" timestamp="1586854439493">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="849" height="308" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1586854439493" />
+    <state x="334" y="234" key="new project wizard" timestamp="1586851828691">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="234" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586851828691" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1586858300561">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586858300561" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/zhu/springcloud/service/impl/OrderServiceImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
